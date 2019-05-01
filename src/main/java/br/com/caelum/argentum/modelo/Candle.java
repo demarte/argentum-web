@@ -4,7 +4,7 @@ import java.util.Calendar;
 
 public final class Candle {
 
-	private final double abertura;
+	private final double aberturaxxx;
 	private final double fechamento;
 	private final double minimo;
 	private final double maximo;
